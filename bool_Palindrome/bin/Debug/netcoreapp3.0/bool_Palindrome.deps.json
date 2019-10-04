@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "bool_Palindrome/1.0.0": {
+        "runtime": {
+          "bool_Palindrome.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bool_Palindrome/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

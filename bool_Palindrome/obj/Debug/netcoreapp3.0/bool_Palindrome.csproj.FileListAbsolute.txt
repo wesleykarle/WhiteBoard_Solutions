@@ -1,0 +1,11 @@
+C:\Users\wesle\source\repos\WhiteBoardProjects\bool_Palindrome\bin\Debug\netcoreapp3.0\bool_Palindrome.exe
+C:\Users\wesle\source\repos\WhiteBoardProjects\bool_Palindrome\bin\Debug\netcoreapp3.0\bool_Palindrome.deps.json
+C:\Users\wesle\source\repos\WhiteBoardProjects\bool_Palindrome\bin\Debug\netcoreapp3.0\bool_Palindrome.runtimeconfig.json
+C:\Users\wesle\source\repos\WhiteBoardProjects\bool_Palindrome\bin\Debug\netcoreapp3.0\bool_Palindrome.runtimeconfig.dev.json
+C:\Users\wesle\source\repos\WhiteBoardProjects\bool_Palindrome\bin\Debug\netcoreapp3.0\bool_Palindrome.dll
+C:\Users\wesle\source\repos\WhiteBoardProjects\bool_Palindrome\bin\Debug\netcoreapp3.0\bool_Palindrome.pdb
+C:\Users\wesle\source\repos\WhiteBoardProjects\bool_Palindrome\obj\Debug\netcoreapp3.0\bool_Palindrome.csprojAssemblyReference.cache
+C:\Users\wesle\source\repos\WhiteBoardProjects\bool_Palindrome\obj\Debug\netcoreapp3.0\bool_Palindrome.AssemblyInfoInputs.cache
+C:\Users\wesle\source\repos\WhiteBoardProjects\bool_Palindrome\obj\Debug\netcoreapp3.0\bool_Palindrome.AssemblyInfo.cs
+C:\Users\wesle\source\repos\WhiteBoardProjects\bool_Palindrome\obj\Debug\netcoreapp3.0\bool_Palindrome.dll
+C:\Users\wesle\source\repos\WhiteBoardProjects\bool_Palindrome\obj\Debug\netcoreapp3.0\bool_Palindrome.pdb
